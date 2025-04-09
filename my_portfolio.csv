@@ -1,0 +1,12 @@
+﻿Stock Name,Symbol,Market,Google Finance Page,Shares
+AbbVie Inc,ABBV,NYSE,https://www.google.com/finance/quote/ABBV:NYSE,50
+Apple Inc,APPL,NASDAQ,https://www.google.com/finance/quote/AAPL:NASDAQ,50
+Broadcom Inc,AVGO,NASDAQ,https://www.google.com/finance/quote/AVGO:NASDAQ,500
+Costco Wholesale Corp,COST,NASDAQ,https://www.google.com/finance/quote/COST:NASDAQ,50
+Crown Castle Inc,CCI,NYSE,https://www.google.com/finance/quote/CCI:NYSE,50
+Home Depot Inc,HD,NYSE,https://www.google.com/finance/quote/HD:NYSE,60
+IBM Common Stock,IBM,NYSE,https://www.google.com/finance/quote/IBM:NYSE,50
+Lockheed Martin Corp,LMT,NYSE,https://www.google.com/finance/quote/LMT:NYSE,100
+Public Storage,PAS,NYSE,https://www.google.com/finance/quote/PSA:NYSE,100
+Sanofi SA,SNY,NASDAQ,https://www.google.com/finance/quote/SNY:NASDAQ,130
+Watsco Inc,WSO,NYSE,https://www.google.com/finance/quote/WSO:NYSE,50
